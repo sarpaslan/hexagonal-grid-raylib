@@ -1,6 +1,7 @@
 HexLayout for raylib.
 
-![image](https://github.com/user-attachments/assets/4aa0b1b3-df22-4793-b145-76ef7aa7890a)
+![image](https://github.com/user-attachments/assets/c7b0497a-6ec8-43c9-9685-9acbee0b740b)
+
 
 Not finished and missing features for now.
 [References]
